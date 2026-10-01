@@ -30,6 +30,10 @@
 <br>
 
 **鸣谢：**
+### :star: [TONE](https://github.com/qin-qwq/TownofNext-Edited) :
+> 
+> - TOQ 基于 TONE
+>
 ### :star: [TOHEN](https://github.com/EnhancedNetwork/TownofHost-Enhanced) :
 > 
 > - TONE 基于 TOHEN
