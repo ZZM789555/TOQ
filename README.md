@@ -31,6 +31,10 @@
 <br>
 
 **Credit to these mods and their developers for the code and help:**
+### :star: [TONE](https://github.com/qin-qwq/TownofNext-Edited) :
+> 
+> - Town of QUQU: Edited was forked from Town of Next: Enhanced.
+>
 ### :star: [TOHEN](https://github.com/EnhancedNetwork/TownofHost-Enhanced) :
 > 
 > - Town of Next: Edited was forked from Town of Host: Enhanced.
